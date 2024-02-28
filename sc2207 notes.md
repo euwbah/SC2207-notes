@@ -108,7 +108,7 @@ The prof is always correct, so memorize these.
 
 [ER Diagram Checkpoint 2]
 
-Reason: This question uses the term **_may_** in the sense that it **could have**, but not necessarily have. **May only have** can also be interpreted as a polite way of saying "should/must only have". The correct answer is **True** because it could have one attribute.
+Reason: This question uses the term **_may_** in the sense that it **could have**, but not necessarily have. **May only have** can also be interpreted as a formal way of saying "should/must only have", especially in the context of legal documents, and exam questions. The correct answer is **True** because it could have one attribute.
 
 Correct phrasing of question: **A key in an entity set can only have one attribute**
 
